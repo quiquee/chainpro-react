@@ -13,6 +13,6 @@ Run the app in  production mode
 
 > npm run build && npm run start
 
-App will be served at localhost:8000
+App will be served at localhost:8000 as developer mode.
 
 React Code starts at './index.js'
