@@ -1,0 +1,19 @@
+{
+  "_comment": "Using m/i recursively for example Division1/Americas is m/0 in m/2 of myBudget",
+  "organization": {
+    "budget": "1JqJ4WFvE3ZwaTfC2NHpKXRSHjLxJSfoML",
+    "members": {
+      "Global CFO": "1LpNMg5bpLfStunETxq6BQecf5Jc5kUvf1",
+      "Global COO": "1QJ47NXJ1cf9iDK6yAEkL3wGRNbRn89VNp",
+      "Division 1": {
+        "budget": "13BhQDyuZv4zac8YPKpcycTPZyiRdJbYXb",
+        "members": {
+          "Americas": "1Nx2bQfypJpNZ4QfvPfziigzXkkJByDc2e",
+          "Europe": "1Fhr3hn9V6jan6M2cc5KNJjqPRQx3ToNuK",
+          "Asia": "1FGzDahF8cDybigShtfi9JR5byGBsUH5pL"
+        }
+      },
+      "Division 2": "1LVd4hrEnvsEtmWX6YRfCNFYgAVmgurNwM"
+    }
+  }
+}
